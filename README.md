@@ -1,11 +1,10 @@
-
 # URL-Shortener-REST-API
 
 A **URL Shortener Microservice** developed using **Spring Boot** and **MongoDB**, which is used to shorten the **Long URL** into **Shorten URL**. It provides **REST API** endpoints to interact with.
 ![tech-logos](https://user-images.githubusercontent.com/64230897/222223593-902b97de-63e3-4988-972b-09ed28048020.png)
 ## Demo
 
-[Full Stack Project with **React** and **Spring Boot** where this project is used as a backend.](http://geturl.codelabs.tech/)
+[Full Stack Project with **React** and **Spring Boot** where this project is used as a backend.](https://geturl.codelabs.tech/)
 
 ## Screenshots
 
